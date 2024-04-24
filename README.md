@@ -1,6 +1,6 @@
-# Running PowerShell Script Silently in the Background
+# Windows Battery Alarm - Running PowerShell Script Silently in the Background
 
-This guide will help you set up a PowerShell script to run silently in the background using a scheduled task.
+This guide will help you set up Windows Battery Alarm, a PowerShell script, to run silently in the background using a scheduled task.
 
 ## Prerequisites
 
